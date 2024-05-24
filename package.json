@@ -1,0 +1,22 @@
+{
+  "name": "wp-smart-wallet",
+  "version": "1.0.0",
+  "description": "WordPress Coinbase smart wallet integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeilinykh/wp-smart-wallet.git"
+  },
+  "author": "Alexei Ilinykh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexeilinykh/wp-smart-wallet/issues"
+  },
+  "homepage": "https://github.com/alexeilinykh/wp-smart-wallet#readme",
+  "dependencies": {
+    "@coinbase/wallet-sdk": "^4.0.0"
+  }
+}

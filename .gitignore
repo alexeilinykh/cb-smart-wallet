@@ -29,6 +29,8 @@ wp-config.php
 # Uploads
 /wp-content/uploads/
 
+node_modules/
+
 # Log files
 *.log
 
